@@ -29,7 +29,7 @@ Built with C++, the project brings together abstraction, encapsulation, inherita
 
 **Abdul Naffey**	25F-0527	boards.h, boards.cpp, clue.txt
 
-**Moazzam Ali Jameel**	25F-0640	rules.txt, engine.cpp, engine.h, locations.txt, main.cpp, accusation_dialogue.txt, about.txt
+**Moazzam Ali Jameel**	25F-0640	rules.txt, engine.cpp, engine.h, locations.txt, main.cpp, accusation_dialogue.txt, about.txt, scoreBoarad.txt
 
 ✨ Features
 
