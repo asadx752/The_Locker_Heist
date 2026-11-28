@@ -1,0 +1,7 @@
+Detective|Result|Credibility|Turns_Left|Culprit|Date
+Agent_007|LOSE|0|05|Servant|11-10-26
+Insp.Jamshad|WIN|35|07|Partner_2|10-10-26
+Cristiano|LOSE|0|09|Servant|25-11-26
+Testing|WIN|95|07|Guard|25-11-26
+Holmes|WIN|100|07|Partner_2|27-11-26
+Poirot|WIN|95|06|Servant|27-11-26
