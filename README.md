@@ -266,8 +266,11 @@ This project demonstrates practical use of:
 
 ⚠️ Disclaimer
 The Locker Heist is an educational project developed for the Object-Oriented Programming course at FAST-NUCES. The game is intended for academic demonstration and learning.
+
 🕵️ Thanks for checking out our project!
+
 Built with C++ · Powered by logic · Driven by curiosity
+
 <div align="center">
 <sub>OOP Semester Project · BCS - 3B · FAST-NUCES</sub>
 </div>
