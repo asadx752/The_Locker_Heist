@@ -269,5 +269,5 @@ The Locker Heist is an educational project developed for the Object-Oriented Pro
 🕵️ Thanks for checking out our project!
 Built with C++ · Powered by logic · Driven by curiosity
 <div align="center">
-<sub>OOP Semester Project · Fall 2026 · FAST-NUCES</sub>
+<sub>OOP Semester Project · BCS - 3B· FAST-NUCES</sub>
 </div>
